@@ -4,8 +4,8 @@ chat with pdf and other docuemnts which can be extracted to text
 # run the webui
 1. prepare the virtual env
 ```shell 
-conda create -n smartdoc_env python==3.9.16  
-conda activate smartdoc_env  
+conda create -n chatdoc_env python==3.9.16  
+conda activate chatdoc_env  
 pip install -r requirements.txt    
 ```
 
