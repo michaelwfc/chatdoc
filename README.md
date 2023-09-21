@@ -1,5 +1,4 @@
-# SmartDoc
-This repository is for hackathon2023
+# ChatDoc
 
 # run the webui
 1. prepare the virtual env
