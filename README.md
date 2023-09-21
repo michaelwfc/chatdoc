@@ -1,4 +1,5 @@
 # ChatDoc
+chat with pdf and other docuemnts which can be extracted to text
 
 # run the webui
 1. prepare the virtual env
